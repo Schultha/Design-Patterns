@@ -4,7 +4,7 @@ import de.schultha.designpatterns.strategypattern.quackbehavior.QuackBehavior;
 import de.schultha.designpatterns.strategypattern.flybehavior.FlyBehavior;
 
 /**
- * Created by alexs on 05.02.2017.
+ * Created by Schultha on 05.02.2017.
  */
 public abstract class Duck {
 

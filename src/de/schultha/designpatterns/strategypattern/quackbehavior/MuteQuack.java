@@ -1,7 +1,7 @@
 package de.schultha.designpatterns.strategypattern.quackbehavior;
 
 /**
- * Created by alexs on 06.02.2017.
+ * Created by Schultha on 06.02.2017.
  */
 public class MuteQuack implements QuackBehavior {
     @Override

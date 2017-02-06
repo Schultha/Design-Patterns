@@ -1,7 +1,7 @@
 package de.schultha.designpatterns.strategypattern.flybehavior;
 
 /**
- * Created by alexs on 05.02.2017.
+ * Created by Schultha on 05.02.2017.
  */
 public class FlyWithWings implements FlyBehavior {
 
