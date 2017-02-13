@@ -1,7 +1,7 @@
-package de.schultha.designpatterns.strategypattern;
+package de.schultha.designpatterns.strategy;
 
-import de.schultha.designpatterns.strategypattern.model.Duck;
-import de.schultha.designpatterns.strategypattern.model.MallardDuck;
+import de.schultha.designpatterns.strategy.model.Duck;
+import de.schultha.designpatterns.strategy.model.MallardDuck;
 
 /**
  * Created by Schultha on 06.02.2017.

@@ -1,7 +1,7 @@
-package de.schultha.designpatterns.strategypattern.model;
+package de.schultha.designpatterns.strategy.model;
 
-import de.schultha.designpatterns.strategypattern.quackbehavior.QuackBehavior;
-import de.schultha.designpatterns.strategypattern.flybehavior.FlyBehavior;
+import de.schultha.designpatterns.strategy.quackbehavior.QuackBehavior;
+import de.schultha.designpatterns.strategy.flybehavior.FlyBehavior;
 
 /**
  * Created by Schultha on 05.02.2017.

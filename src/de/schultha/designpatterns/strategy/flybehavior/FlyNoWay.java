@@ -1,4 +1,4 @@
-package de.schultha.designpatterns.strategypattern.flybehavior;
+package de.schultha.designpatterns.strategy.flybehavior;
 
 /**
  * Created by Schultha on 05.02.2017.

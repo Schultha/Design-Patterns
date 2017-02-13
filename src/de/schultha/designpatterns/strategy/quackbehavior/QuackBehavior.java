@@ -1,4 +1,4 @@
-package de.schultha.designpatterns.strategypattern.quackbehavior;
+package de.schultha.designpatterns.strategy.quackbehavior;
 
 /**
  * Created by Schultha on 05.02.2017.
